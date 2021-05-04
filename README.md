@@ -8,3 +8,4 @@ A website that offer firtness training services.
 https://gilmed0526.github.io/run-buddy/
 ## Contribution
 Made With❤️ by Gilberto Medina
+### ©️2019 Run Buddy, Inc 
